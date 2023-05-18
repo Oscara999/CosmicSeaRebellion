@@ -25,4 +25,459 @@ MonoBehaviour:
     m_importFrom: Assets/Scripts/Player/AnimationPlayerController.cs
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 00000000000000009000000000000000
+    m_importFrom: ProjectSettings/QualitySettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0ea9bf822ec1dd94ea5f48533e397c11
+    m_importFrom: Assets/Materials/Ventanas MAT.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a54e96b34e1f67943a93caf8647c32fe
+    m_importFrom: Assets/Materials/Muros del pueblo MAT.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 606178475fe85894c816951196f23d23
+    m_importFrom: Assets/Materials/Pops Cosmic MAT.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a037eada3d3c88345ac4017ebd989690
+    m_importFrom: Assets/Materials/Personajes MAT.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73f63aed0e30ef648af643c53529110e
+    m_importFrom: Assets/Scenes/Environment--Escenario.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 650610d917361de46b41af22bbdd675e
+    m_importFrom: Assets/Environment--Escenario--Mateus
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2f37471ace2af54b8ac5b4c18e0db4d
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f154c3eee19bdbf4eae01bc091cadf39
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 442c61408790f4748bb87ce0800f84b1
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/HachaDeGuerra.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d64af7083e19ae41a2c29a63d73f5ed
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/PlantaDeZero.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d69efc0a3057e7449b6b6cfe551d03a
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Trigo.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6648ae41a40ac474da5d3c3a4335152d
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Planta
+      de Abrontano Hembra.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5520191b04a19144a4b546f304b9cd1
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa3.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 287524a11a3d9204ea4328aa80f51e23
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/RamaDeLentejas.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0177fc18bfc6c840a9e5d7efa5e4cbc
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa4.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 891bd96239cdd5948a2ac246fcd93c5d
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Lanza2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64c44c13de4c662458c4769236f1fe71
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/LanzaNormal.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8716bbe3d79262346b488f5b14fe654d
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Arco.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f350f8f32ad78bc48825b53023a90e18
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Espada1--1mt.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0dcbba05b19346444ac0732756c2bb98
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Lanza3.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f72126579fca4740a5ff6e62e306102
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/VallaDeMadera.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f1cbc665680c2f4996201eab450d583
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa1.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60bfce86bc86ec8468d68c8253e264b9
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/LanzaCabezaConPuas.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e11d20967710f15468066564f943bfea
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/HachaNormal.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18e3b3276989484479e3f0051090f721
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Letrero.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 387d35576ec731e45aeab2f598351de5
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Espada3--1mt.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 331712e7721138a44a2a7a643b7b14d8
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/LanzaCabezaBifurcada.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 078c9428ced67ec4287bf2c898a123e8
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Escudo1.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 79203b786bd975b41b6ed508377f0cba
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Lanza1.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a31c109e0e7bec4dadcef4e9fdd3ace
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/DianaDeTiro.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f66b52b3b58a304b8a2f63880d212c7
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Cebada.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c12216bb539389408664858f04a64e6
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/CasaBlaise.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3bd10d9b1c18e9c449cab78dd1ee5418
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa6.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 375fecfbec7ec8249873f013b4bde993
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Espada2--1mt.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d391627cc78743e4fb0ff1237a647f75
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Martillo.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 059a1c9c44f8a894ca845f08bf52e2e0
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa5.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2c671ecfea446e42be91a60bec7256e
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Escudo2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7660814d08dcb284dab99e2398b64526
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Daga30cm.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a63c60e8376b9849aa3dd30816dd679
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Guisantes.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f3f7b1fb8651184e85ff7cbdfec5076
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/FlorDeLiz.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 858c7c6f79f16334393b547be4193bb0
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/MazoConPuas.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5afff15d27a034a41ae7e130f0f01170
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4c0ff9073758bd4a837ed8bf85f6666
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic/Fachadas_Texturas_Casas_Cosmic_00.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39f0a46671f5512429acb5bf8247f250
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic/Arquitecturas.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86accc4763faeb14b9a65fb3049ec963
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic/UV_Ventanas_Puertas_Techos_Maderos_PNG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d12b34a9fe173a84289aee99d1c9eb8c
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic/Probs_Cosmic.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1fe04c8ca9655bf419c81785921aa3b0
+    m_importFrom: Assets/Environment--Escenario--Mateus/Texturas_Cosmic/Armas.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d7fa9c3d62d484643b016aad252b2978
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c74e94924f0d16843b4aa4acdceb4d7e
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Armas.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c74e94924f0d16843b4aa4acdceb4d7e
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Armas.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68de7fe770cffb741b679a4a05fb76b6
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Arquitecturas.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f7acc9c6eb539b4785ee0682b9c6c25
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Fachadas.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 202a84d2931a11e4ba72e3b8be361285
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Probs.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed10ad0ab3dba4d4c996b98b77c0af26
+    m_importFrom: Assets/Environment--Escenario--Mateus/Materiales/Ventanas-Puertas-Techos.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3de276993e4048f4282ad23fd18d117b
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b638f5f9ef8775a45b4f640388877ac9
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49082b10db7c1764988c4150c3641e88
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 499d34851fcd9cc48b815e111f5886cf
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Arco.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e46ab7718c64b6f4e9cd32feed287490
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Cebada.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d7acd1284882c740ae6d900ce07255d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Daga30cm.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba8a7d029b1bf2e4caa5a1bfcaab2715
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/DianaDeTiro.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9ab61cc340b504741bc09e9fcd6d757a
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Escudo1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11ac43db4125cf041bdeace98161080d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Escudo2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cddf1349c9b3e8a43a9580c62eb16890
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Espada1--1mt.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35b09a0d936033c42a3cb7ed8e5edcaf
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Espada2--1mt.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97a0368de1df2214dae172666afa9ff3
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Espada3--1mt.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ab32649e9f554040905747a585cc979
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/FlorDeLiz.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 749b6c6f01862174cbffc813cd00e85b
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Guisantes.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e43867e10551b4449af28205ddab9bd
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/HachaDeGuerra.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f660916aa8a8d94ca2a2c028a0c0cf8
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/HachaNormal.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f848399fa4346684db0b2763b22e5172
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Lanza1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f274cd7ea09cd8c4481c7b8f85ae036a
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Lanza2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4643bf1d3f6d71498f5d911e0f66ab5
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Lanza3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d45a5e51b762afe4eb42b5f2767cd0e0
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/LanzaCabezaBifurcada.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf04bb1289c676e4fa74ef17d0e8f975
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/LanzaCabezaConPuas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27b49c2609ac13b4ebd2478a07160b82
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/LanzaNormal.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: faab3225ba5dbcd448c93b59dec2035f
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Letrero.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ec1f7f706e361f429d14bfae3b7aab5
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Martillo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e26842ead2d7b14c9567d3f087a1033
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/MazoConPuas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5178c723b56dca49a7f637ee966747b
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Planta
+      de Abrontano Hembra.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 370b40698c395d84eb977ba084b79b6a
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/PlantaDeZero.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e828988659ebf4943898865ae9c791f9
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/RamaDeLentejas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf95e691a26de2e4b94e9b5d5c8b9569
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Trigo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8aa897c62f444644bc6d9f6a99487ef
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/VallaDeMadera.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 31da1888849ac424695d494848984e1d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 900b67c03a919d048b1d1d2acb495df2
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 745c7e07f4dfca844ac760a3ebe1f75d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0199f1ccf76d4b64d995042c48f6baa3
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa4.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1123c5ac3d6a9f54db397bee43bed6fe
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa5.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f0f17688fb875241b2a5c4899941319
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa6.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7377937a9962684fbf0cccf3fe93c1f
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/CasaBlaise.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b0b78358f1677144ad5ae310f7561ce
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Pueblo--Cosmic/Casa2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 926637145663e604fade8d02012ff109
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Valla.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab5f7c25c1df5424cbe93de5413ca2fb
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Carreta.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b5457c7abc882d459c3a2ceb26a2c3b
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Caja.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 339a90e7d40b070439bc9bb5d0ee5761
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Bulto.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8a3cefa85b7dc6d46a9531d2eeb5a77f
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Barril.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 787c4fd8fbebbbd4fb82a3d7c3db8ab4
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Mesa.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb7f5d9ce39527647a4182cbb48192df
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Silla.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6856f00ef3b80dd48abce5ad695d60bd
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Pozo.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8efdbaeea21f82e42a3de786b3aabdef
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/Fuente.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b6cebfb81543214eb19b7669cf0ae24
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Caja.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15c1e5483096b82438f4637892fbfed4
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Barril.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0a5f9cbd2c228f478be143da808ecca
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Bulto.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 167fbe16dfbf5264da8ecb40f60e204e
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Caja
+      1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de42e3e3c11610640b1d90a500ffdc71
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Carreta.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c98592e10cc2e4b4cb1814c7fb371ac8
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Fuente.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41b3fc153ba7f9d49b8959888df07c90
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Mesa.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1b727219e9a7f342836dc4017c75b48
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Pozo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d536696c9b03324bb2cd5d4ef72791a
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Silla.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c61acc93eb710d47abb5fb46abc6d24
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Valla.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 301315bcc9c4b814e8358ab251bbf771
+    m_importFrom: Assets/Environment--Escenario--Mateus/FBX--Escenario--Probs/VallaCompleta.fbx
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
