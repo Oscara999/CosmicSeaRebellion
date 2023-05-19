@@ -23,7 +23,7 @@ public class InventoryObject : ScriptableObject
     [ContextMenu("Clear")]
     public void Clear()
     {
-        DisplayInventory.Instance.DeleteDisplay();
+        DisplayInventory.Instance?.DeleteDisplay();
         container.items.Clear();
     }
 
