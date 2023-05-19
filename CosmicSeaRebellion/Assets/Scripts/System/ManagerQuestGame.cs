@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using System.Linq;
 using System;
 
-public class ManagerQuestGame : Singleton<ManagerQuestGame>
+public class ManagerQuestGame : MonoBehaviour
 {
     [SerializeField] Text textQuest;
     [SerializeField] Text textLifes;
@@ -188,7 +188,6 @@ public class ManagerQuestGame : Singleton<ManagerQuestGame>
         else
         {
             observationsPanel.GetComponentInChildren<Text>().text = "Desperdicio de todos los materiales ";
-            ManagerGameLevelBasic.Instance.potion.SetActive(true);
         }
 
     }

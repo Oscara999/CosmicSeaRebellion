@@ -1,19 +1,24 @@
 fileFormatVersion: 2
 guid: eb1611df4ecbd8749be74dbc18862e96
 ModelImporter:
-  serializedVersion: 19300
+  serializedVersion: 19301
   internalIDToNameTable: []
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: FachadaCasas
-    second: {fileID: 2100000, guid: 3c54fa7d971a0e44aaebb0049a845456, type: 2}
+    second: {fileID: 2100000, guid: 68de7fe770cffb741b679a4a05fb76b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 68de7fe770cffb741b679a4a05fb76b6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Techos_Venatanas
-    second: {fileID: 2100000, guid: 0ea9bf822ec1dd94ea5f48533e397c11, type: 2}
+    second: {fileID: 2100000, guid: ed10ad0ab3dba4d4c996b98b77c0af26, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -53,6 +58,7 @@ ModelImporter:
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
