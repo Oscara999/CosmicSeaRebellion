@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3990295027227549698}
   - component: {fileID: 58471731088125863}
   - component: {fileID: 2822434198625196909}
+  - component: {fileID: 8375579824150708478}
   m_Layer: 0
   m_Name: Casa5
   m_TagString: Untagged
@@ -80,3 +81,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &8375579824150708478
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4335753143302732472}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.070078455, y: 0.09991998, z: 0.08700252}
+  m_Center: {x: 0.0020383405, y: 0.00388108, z: -0.0052214907}

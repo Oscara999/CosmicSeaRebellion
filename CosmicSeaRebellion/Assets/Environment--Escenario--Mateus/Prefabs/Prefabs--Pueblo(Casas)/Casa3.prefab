@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 9082544275541288189}
   - component: {fileID: 5306496488491871064}
   - component: {fileID: 7944491824972472210}
+  - component: {fileID: 7016683031939948006}
   m_Layer: 0
   m_Name: Casa3
   m_TagString: Untagged
@@ -80,3 +81,16 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!65 &7016683031939948006
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8448890654151753287}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.11104432, y: 0.08824023, z: 0.113815606}
+  m_Center: {x: 0.011376948, y: 0.0030844356, z: -0.003928938}
