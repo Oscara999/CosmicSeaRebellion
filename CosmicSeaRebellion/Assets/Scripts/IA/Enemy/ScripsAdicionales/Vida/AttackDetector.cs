@@ -69,7 +69,7 @@ public class AttackDetector : MonoBehaviour
     }
     public void StartSinking()
     {
-        GetComponent<DriverNavMeshAI>().enabled = false;
+        GetComponent<DriverNavMesh>().enabled = false;
         GetComponent<Rigidbody>().isKinematic = true;
         IsSinkin = true;
         Destroy(gameObject, 2f);
