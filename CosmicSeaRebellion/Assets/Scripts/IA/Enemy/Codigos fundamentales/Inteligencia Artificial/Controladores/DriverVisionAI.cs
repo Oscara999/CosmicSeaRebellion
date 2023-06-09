@@ -21,6 +21,7 @@ public class DriverVisionAI : MonoBehaviour
         Vector3 vectorDireccion;
         if (mirarHaciaElJugador)
         {
+            Ojos.transform.LookAt(controladorNavMesh.perseguirObjectivo.transform);
             vectorDireccion = (controladorNavMesh.perseguirObjectivo.position + offset) - Ojos.position;
         }
         else

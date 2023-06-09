@@ -13,80 +13,443 @@ MonoBehaviour:
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
   m_assets:
-  - m_assetDatabaseId: 0199f1ccf76d4b64d995042c48f6baa3
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa4.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 31da1888849ac424695d494848984e1d
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa1.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 745c7e07f4dfca844ac760a3ebe1f75d
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa3.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 1123c5ac3d6a9f54db397bee43bed6fe
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa5.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 3f0f17688fb875241b2a5c4899941319
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa6.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 900b67c03a919d048b1d1d2acb495df2
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa2.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c7377937a9962684fbf0cccf3fe93c1f
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/CasaBlaise.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 7d536696c9b03324bb2cd5d4ef72791a
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Silla.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 15c1e5483096b82438f4637892fbfed4
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Barril.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 41b3fc153ba7f9d49b8959888df07c90
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Mesa.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c98592e10cc2e4b4cb1814c7fb371ac8
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Fuente.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a1b727219e9a7f342836dc4017c75b48
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Pozo.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a0a5f9cbd2c228f478be143da808ecca
-    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Bulto.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: f4e231e5555b13a48b1b383157ff2ee2
-    m_importFrom: Assets/Scenes/EscenarioHuertoTest.unity
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 606178475fe85894c816951196f23d23
-    m_importFrom: Assets/Materials/Pops Cosmic MAT.mat
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: cfba7875ecb56584ea82bc1d8627a553
-    m_importFrom: Assets/Scenes/EscenarioHuertoTest/LightingData.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: faca86597a1354346831b18e5d8d7677
-    m_importFrom: Assets/Models 3D/Props decoracion pueblo/antorcha fbx .prefab
+  - m_assetDatabaseId: 00000000000000005000000000000000
+    m_importFrom: Library/BuildPlayer.prefs
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 00000000000000009000000000000000
     m_importFrom: ProjectSettings/QualitySettings.asset
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: e96e2b10e7bc22b41b32dd0cb1bbcd14
+    m_importFrom: Packages/com.unity.recorder/Editor/Assets/d_aovimagesequence_16.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d279d6200c85ac140aa9c93ce39f4ad4
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Run
+      W Root.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efdbf660fd92edf43912bffdfa48cfb3
+    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Animaciones/Animaciones/export_54370c8d-f168-4b27-a4e8-acd2352cb16b.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47545680ad8aa1343a40c14d3d5e29ab
+    m_importFrom: Assets/IA Characters/Soldado/Sting-Sword-lowpoly.obj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 900b67c03a919d048b1d1d2acb495df2
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56a69bd00566e3848856feb3febf2d6c
+    m_importFrom: Packages/com.unity.recorder/Editor/Assets/d_animation_recorder.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d13df2e0421b07542aa7d1d99f08af0b
+    m_importFrom: Assets/IA Characters/Soldado/Patrulla/Sword And Shield Walk.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a00d37f06382a0f458b30fb276bf600f
+    m_importFrom: Assets/IA Characters/Soldado/Catwalk Walk Forward.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b06ccdf00d9649548bc1a67bc8f6e9a8
+    m_importFrom: Assets/Animations/3D/Player/Sword And Shield Walk.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1b727219e9a7f342836dc4017c75b48
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Pozo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5045c21d537dce49beb250a60547cbe
+    m_importFrom: Assets/IA Characters/Soldado/Huir/xbot@Running.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11f53c311b80cc64599396ef8d379086
+    m_importFrom: "Assets/IA - Export Cosmic Sea/IA Que pelea/Modelados de Personajes/ALDEANA
+      32 A\xD1OS FBX.fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a22c2ed18b2ab1e4a8d09d7ea0b74d0f
+    m_importFrom: Assets/IA Characters/Soldado/Texturas-Personajes-Cosmic-Sea.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c98592e10cc2e4b4cb1814c7fb371ac8
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Fuente.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b57efb323264fe54f8e2a6762c159f69
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Rotate.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01ad6942c5071ee4dbe84fa59bb44e44
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Walk
+      In Place.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96c57a7277565124688133d57d54d4e1
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Grass.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0350192223803f44aeb96f65a4ab2d3
+    m_importFrom: Assets/Prefabs/Characters/Aldeana .prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 442d0392b185b0d46be99b132804d429
+    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Idle.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d318c6b27f7cdc7458e06a6c71bf00f8
+    m_importFrom: Assets/IA Characters/Soldado/Npc controler.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 063c7db2e475116479dfdf4c576fd3c9
+    m_importFrom: Assets/_AdvancedTerrainGrass/ATG_URP_GrassDisplacement.unitypackage
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e9af203e8d3fdc4a889d53a83ebf6ef
+    m_importFrom: Assets/Animations/3D/AnimacionesIA/export_a0d1c2fa-dddd-4157-bd39-56e409da8fa6.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8db3693ad62c564397705147b125ac6
+    m_importFrom: Assets/IA Characters/Soldado/Saludar/xbot@Standing Greeting.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49a324a3a99f02844aadd9426055fee7
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/PPP/Chicken.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d836cfd32486e3c46b1ae6569a17f1e3
+    m_importFrom: Assets/Animations/3D/Player/Boxing.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 863ab454f80da6f4e9a86cfebbb3a15d
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Turn
+      Head.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62d99c54b7546394db933131ab5bfe62
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Textures/Mega Toon
+      Chicken.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 13a9c1b4df2e489e8eb9cacca7429596
+    m_importFrom: Packages/com.unity.timeline/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c14506d47b11af540a2c6218b5c04e15
+    m_importFrom: "Assets/Models 3D/Characters/NI\xD1A/ALDEANA 11 A\xD1OS FBX.fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41b3fc153ba7f9d49b8959888df07c90
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Mesa.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46d0b1354c1891d458a732548bb69bf6
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Idle.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d623cd35a78380d4eb0457c4e483abed
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 02fd4f45795807c469e76f06078fe76f
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Ground.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfba7875ecb56584ea82bc1d8627a553
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/LightingData.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97e08c8546c01da429195391ec84c47a
+    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Modelados de Personajes/export_f721a5a3-af0f-47f1-a9b8-84ce463d049a.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6344b5c5aed86914ca3946e180f5168e
+    m_importFrom: Assets/Animations/3D/Player/Sword And Shield Idle.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b21661d5aba61094d9a0f4a3bb466bdb
+    m_importFrom: Assets/Animations/3D/Stand To Roll.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8af856e55aba3a842bb65372ce3b86ce
+    m_importFrom: Packages/com.unity.recorder/Editor/Unity.Recorder.Editor.api
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e41f42f5e81b018479b0091156c9ecc6
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Mega Toon
+      Chicken.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69e34ef5a46cfd2458698bcfb0ed8e08
+    m_importFrom: "Assets/Models 3D/Characters/ALDEANO/ALDEANO 21 A\xD1OS FBX .fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d579606b6411b0478570f66b838adcd
+    m_importFrom: Assets/Animations/3D/AnimacionesIA/export_cda5c008-d4f6-46e1-8b3c-8dd5d5ac95b3.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d7db6169c1467f41bbf1b9135f7fb2a
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Rotate.anim
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf797226bad40c94c8fa7156bd431165
+    m_importFrom: Packages/com.unity.recorder/Editor/Sources/Recorders/_Inputs/Camera/Shaders/RenderTextureCopy.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe7f93767bd4d6c47b128db1ee4e5a26
+    m_importFrom: Assets/IA Characters/Soldado/Ataque/Sword And Shield Slash (1).fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f66454863bc106549a6b53849ee63b41
+    m_importFrom: Packages/com.unity.timeline/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d536696c9b03324bb2cd5d4ef72791a
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Silla.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25ed3ba6f682b334284facfdff4e3784
+    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Crouch
+      Idle.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47076bc6b042d8845afcc738ee629c80
+    m_importFrom: Packages/com.unity.recorder/Editor/Sources/Recorders/_Inputs/Camera/Shaders/MakeOpaque.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e48dcc6629339d438e7c701fa87866d
+    m_importFrom: Packages/com.unity.recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Normalize.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b525cde66ecba8f4db223fda3deeb8fe
+    m_importFrom: Packages/com.unity.recorder/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 745c7e07f4dfca844ac760a3ebe1f75d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ecb9e17e44feb84cb80451fa27b09fe
+    m_importFrom: Packages/com.unity.timeline/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7377937a9962684fbf0cccf3fe93c1f
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/CasaBlaise.prefab
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: 9938b3570752d234dae6fef7eae1cc22
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93bdda67d3a5c204f9cd9a732c8676ab
+    m_importFrom: Assets/IA Characters/Soldado/Muerte/Sword And Shield Death (1).fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 312b31977ed9b2d48a14849ebb8c7fb3
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Toon Chicken.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9700ad97272d0dc4587c6882edb94130
+    m_importFrom: Packages/com.unity.recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4SuperShader.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cb61fd77039dad4b82e89c575091ea0
+    m_importFrom: Assets/IA Characters/Soldado/Perseguir/Sword And Shield Run.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 42d919e7a79e4b746bb53b9bc378f563
+    m_importFrom: Assets/IA Characters/Soldado/Ataque/Sword And Shield Slash (2).fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f71b2089dc54a7468d30b73ea874001
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/ChickenAI.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eada0a3852f7626479047625b03134b0
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Ground.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15c1e5483096b82438f4637892fbfed4
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Barril.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 36ae2e48e7a7343fcb1503f56b5d4485
+    m_importFrom: Assets/ConsolePro/Remote/LiteNetLib/LiteNetLib.csproj
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f0f17688fb875241b2a5c4899941319
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa6.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 17d752885f4fdd640953f2d60eea0e5c
+    m_importFrom: "Assets/Prefabs/Characters/Soldado 32 A\xF1os.prefab"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 31da1888849ac424695d494848984e1d
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2ae18d8d32933742a6cfbdd265a14e9
+    m_importFrom: Assets/_AdvancedTerrainGrass/ATG_URP_7.1.7_Support.unitypackage
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9db449f8f997580488ec5de08741b0db
+    m_importFrom: Assets/Animations/3D/Player/Walking.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: faca86597a1354346831b18e5d8d7677
+    m_importFrom: Assets/Models 3D/Props decoracion pueblo/antorcha fbx .prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84dd067921f4e0045bb3a9a6e8fb7789
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Toon Chicken.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 874ea3e9e111c824f9746ebed2baef3c
+    m_importFrom: "Assets/Models 3D/Characters/NI\xD1O/ALDEANO DE 12 A\xD1OS FBX.fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f833758a3011568418888aeafb87b94b
+    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/MisionManager.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cab8a7ba10c70e946ac60b1efc2058d0
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/READ ME/Meshtint
+      Mega Toon Series Read Me .pdf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be3c38fac914b2b448e1cdf18f7c5720
+    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Animaciones/Animaciones/export_6e4219b6-7162-462b-8d5d-95079d5f8a6a.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69bb6cfa334a677488be78de2ae0d2d4
+    m_importFrom: Packages/com.unity.recorder/Editor/Assets/aovimagesequence_16.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 08b1100bce63b8045aa303e5c5d38edb
+    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/Toon Chicken.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d75690b2bbd3a742ac24ae2434f4fe6
+    m_importFrom: "Assets/IA Characters/Soldado/RecibirDa\xF1o/Standing React Small
+      From Front 02 (1).fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9daf622be675b864ca009e73347d95f3
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Walk
+      W Root.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd33342b58b1e124b93d0d36a4ef08f0
+    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/Canvas_PANELES.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 954151cbefadef549a7f8f0ad2acf459
+    m_importFrom: Assets/IA Characters/Soldado/Alerta/Run With Sword (1).fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0a5f9cbd2c228f478be143da808ecca
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Probs/Bulto.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40880eeba3ef1d943b22f7b445e502d9
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Eat.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6cd0f41c177f0f949a223b42b053fcfd
+    m_importFrom: "Assets/Prefabs/Characters/Ni\xF1o .prefab"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf9fbd4ce56f93649ab9a1914510a270
+    m_importFrom: Assets/IA Characters/Soldado/Buscando/Standing Idle Looking Ver.
+      2.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85148e7c451fe2c49a95da1805155d6b
+    m_importFrom: Packages/com.unity.recorder/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1123c5ac3d6a9f54db397bee43bed6fe
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa5.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0199f1ccf76d4b64d995042c48f6baa3
+    m_importFrom: Assets/Environment--Escenario--Mateus/Prefabs/Prefabs--Pueblo(Casas)/Casa4.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6dcd4dc8cfcfb244bd88b6e3fe76062
+    m_importFrom: Assets/Animations/3D/Player/Boxing (1).fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 124c4ffc292799a4b862744c3b945df8
+    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Jumps/Jumping.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10fd3a2d8f546df4f8af19c411a0f42e
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Grass.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8199d32e6bec98e45ae1e2ed4167c267
+    m_importFrom: Packages/com.unity.recorder/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d793e7e856583b439e5f552547fd55a
+    m_importFrom: Assets/Prefabs/Characters/Aldeano 32.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a1e11ce806ca254a9e34affe4e00355
+    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Crouched
+      Walking.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 335b9cced2253cc458d0da6be4f7016d
+    m_importFrom: Assets/_AdvancedTerrainGrass/ATG_URP_7.2_Support.unitypackage
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a0757ee0236f39489520769ae710288
+    m_importFrom: Packages/com.unity.timeline/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fdf9331f24d3a2243a65ea3758a4a184
+    m_importFrom: Assets/IA Characters/Soldado/SoldadoController.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8655854fe0299a548b9c79b29ab40b8c
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Run
+      In Place.FBX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24232f5f40aada14995712e173fc8bd7
+    m_importFrom: Packages/com.unity.recorder/Editor/Sources/Recorders/_Inputs/RenderTextureSampler/Shaders/BS4Accumulate.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bddc957f6fc080144bc6ee0c40355251
+    m_importFrom: Packages/com.unity.recorder/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 023bb6bfb37b5334f82b6b3ac607c538
+    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Toon Chicken
+      Demo.controller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d13019ff35905ad42b8d7d64d577f2fb
+    m_importFrom: "Assets/Models 3D/Characters/NI\xD1A/ALDEANA 32 A\xD1OS FBX.fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 390f5cfff2a9da24181b0178caac9eb5
+    m_importFrom: "Assets/IA Characters/Soldado/RecibirDa\xF1o/Standing React Small
+      From Front.fbx"
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 046958374352e1c4fa4f5a6cbe0b0f31
+    m_importFrom: Assets/Prefabs/Game/CanvasGame .prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4e231e5555b13a48b1b383157ff2ee2
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest.unity
     m_exportTo: 
     m_variantName: 
   m_version: 2
