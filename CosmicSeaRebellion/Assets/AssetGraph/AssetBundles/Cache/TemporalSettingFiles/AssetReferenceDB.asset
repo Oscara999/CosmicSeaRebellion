@@ -17,250 +17,341 @@ MonoBehaviour:
     m_importFrom: Library/BuildPlayer.prefs
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: d279d6200c85ac140aa9c93ce39f4ad4
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Run
-      W Root.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: efdbf660fd92edf43912bffdfa48cfb3
-    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Animaciones/Animaciones/export_54370c8d-f168-4b27-a4e8-acd2352cb16b.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a00d37f06382a0f458b30fb276bf600f
-    m_importFrom: Assets/IA Characters/Soldado/Catwalk Walk Forward.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b06ccdf00d9649548bc1a67bc8f6e9a8
-    m_importFrom: Assets/Animations/3D/Player/Sword And Shield Walk.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 11f53c311b80cc64599396ef8d379086
-    m_importFrom: "Assets/IA - Export Cosmic Sea/IA Que pelea/Modelados de Personajes/ALDEANA
-      32 A\xD1OS FBX.fbx"
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fda96051142388e4cbaf774de278a4fc
-    m_importFrom: Assets/Prefabs/Game/PlayerPrefab.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a22c2ed18b2ab1e4a8d09d7ea0b74d0f
-    m_importFrom: Assets/IA Characters/Soldado/Texturas-Personajes-Cosmic-Sea.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b57efb323264fe54f8e2a6762c159f69
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Rotate.controller
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 01ad6942c5071ee4dbe84fa59bb44e44
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Walk
-      In Place.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 96c57a7277565124688133d57d54d4e1
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Grass.mat
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c0350192223803f44aeb96f65a4ab2d3
-    m_importFrom: Assets/Prefabs/Characters/Aldeana .prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 442d0392b185b0d46be99b132804d429
-    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Idle.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d318c6b27f7cdc7458e06a6c71bf00f8
-    m_importFrom: Assets/IA Characters/Soldado/Npc controler.controller
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0e9af203e8d3fdc4a889d53a83ebf6ef
-    m_importFrom: Assets/Animations/3D/AnimacionesIA/export_a0d1c2fa-dddd-4157-bd39-56e409da8fa6.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 49a324a3a99f02844aadd9426055fee7
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/PPP/Chicken.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d836cfd32486e3c46b1ae6569a17f1e3
-    m_importFrom: Assets/Animations/3D/Player/Boxing.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 863ab454f80da6f4e9a86cfebbb3a15d
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Turn
-      Head.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 62d99c54b7546394db933131ab5bfe62
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Textures/Mega Toon
-      Chicken.psd
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c14506d47b11af540a2c6218b5c04e15
-    m_importFrom: "Assets/Models 3D/Characters/NI\xD1A/ALDEANA 11 A\xD1OS FBX.fbx"
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 46d0b1354c1891d458a732548bb69bf6
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Idle.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d623cd35a78380d4eb0457c4e483abed
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 02fd4f45795807c469e76f06078fe76f
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Ground.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 97e08c8546c01da429195391ec84c47a
-    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Modelados de Personajes/export_f721a5a3-af0f-47f1-a9b8-84ce463d049a.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 6344b5c5aed86914ca3946e180f5168e
-    m_importFrom: Assets/Animations/3D/Player/Sword And Shield Idle.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b21661d5aba61094d9a0f4a3bb466bdb
-    m_importFrom: Assets/Animations/3D/Stand To Roll.fbx
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: e41f42f5e81b018479b0091156c9ecc6
     m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Mega Toon
       Chicken.mat
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 69e34ef5a46cfd2458698bcfb0ed8e08
-    m_importFrom: "Assets/Models 3D/Characters/ALDEANO/ALDEANO 21 A\xD1OS FBX .fbx"
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8d579606b6411b0478570f66b838adcd
-    m_importFrom: Assets/Animations/3D/AnimacionesIA/export_cda5c008-d4f6-46e1-8b3c-8dd5d5ac95b3.fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 6d7db6169c1467f41bbf1b9135f7fb2a
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Rotate.anim
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fe7f93767bd4d6c47b128db1ee4e5a26
-    m_importFrom: Assets/IA Characters/Soldado/Ataque/Sword And Shield Slash (1).fbx
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 25ed3ba6f682b334284facfdff4e3784
-    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Crouch
-      Idle.fbx
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 9938b3570752d234dae6fef7eae1cc22
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 312b31977ed9b2d48a14849ebb8c7fb3
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Toon Chicken.prefab
+  - m_assetDatabaseId: faca86597a1354346831b18e5d8d7677
+    m_importFrom: Assets/Models 3D/Props decoracion pueblo/antorcha fbx .prefab
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 42d919e7a79e4b746bb53b9bc378f563
-    m_importFrom: Assets/IA Characters/Soldado/Ataque/Sword And Shield Slash (2).fbx
+  - m_assetDatabaseId: 00000000000000009000000000000000
+    m_importFrom: ProjectSettings/QualitySettings.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 3f71b2089dc54a7468d30b73ea874001
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/ChickenAI.controller
+  - m_assetDatabaseId: 21536460d8a79bd4ea5c7ee34d600944
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-21_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: eada0a3852f7626479047625b03134b0
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Materials/Ground.mat
+  - m_assetDatabaseId: 6e5876604cc989f42827f116f468683b
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-5_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 17d752885f4fdd640953f2d60eea0e5c
-    m_importFrom: "Assets/Prefabs/Characters/Soldado 32 A\xF1os.prefab"
+  - m_assetDatabaseId: 5a246d601520abf4da3a85dc5300d2f4
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-30_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9db449f8f997580488ec5de08741b0db
-    m_importFrom: Assets/Animations/3D/Player/Walking.fbx
+  - m_assetDatabaseId: 937c08c08ac652449809f2999c4f469f
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-19_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 84dd067921f4e0045bb3a9a6e8fb7789
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Toon Chicken.controller
+  - m_assetDatabaseId: cd723a31eeba8bb4d90a7efb38ccb7b2
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-32_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 874ea3e9e111c824f9746ebed2baef3c
-    m_importFrom: "Assets/Models 3D/Characters/NI\xD1O/ALDEANO DE 12 A\xD1OS FBX.fbx"
+  - m_assetDatabaseId: 54808d5138aa3454c904c2666257715d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-18_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: f833758a3011568418888aeafb87b94b
-    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/MisionManager.prefab
+  - m_assetDatabaseId: 287f19614f59de94e83fe8962deb0802
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-6_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: cab8a7ba10c70e946ac60b1efc2058d0
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/READ ME/Meshtint
-      Mega Toon Series Read Me .pdf
+  - m_assetDatabaseId: 31bb5c61ab86f6740bf265a1fe4aba5a
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-4_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: be3c38fac914b2b448e1cdf18f7c5720
-    m_importFrom: Assets/IA - Export Cosmic Sea/IA Que pelea/Animaciones/Animaciones/export_6e4219b6-7162-462b-8d5d-95079d5f8a6a.fbx
+  - m_assetDatabaseId: 556ee7022dfdb8c42aff04e9a1c54d55
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-1_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 08b1100bce63b8045aa303e5c5d38edb
-    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/Toon Chicken.prefab
+  - m_assetDatabaseId: 2ba479020f19303438cc98d12addfc30
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-12_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 0d75690b2bbd3a742ac24ae2434f4fe6
-    m_importFrom: "Assets/IA Characters/Soldado/RecibirDa\xF1o/Standing React Small
-      From Front 02 (1).fbx"
+  - m_assetDatabaseId: 9ed485a2697fa774b978071d580c53cb
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-34_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9daf622be675b864ca009e73347d95f3
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Walk
-      W Root.FBX
+  - m_assetDatabaseId: 4fc49af2734fec94d99035b62e1f494c
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-14_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: fd33342b58b1e124b93d0d36a4ef08f0
-    m_importFrom: Assets/IA - Export Cosmic Sea/GallinaIA/Prefabs/Canvas_PANELES.prefab
+  - m_assetDatabaseId: 36c439a396537ac49b0a62d9f9b0be89
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-26_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 40880eeba3ef1d943b22f7b445e502d9
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Eat.FBX
+  - m_assetDatabaseId: 16da7b54feb9bc34e86237fe9fcf7ca7
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-38_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 6cd0f41c177f0f949a223b42b053fcfd
-    m_importFrom: "Assets/Prefabs/Characters/Ni\xF1o .prefab"
+  - m_assetDatabaseId: c36a46f49a0ffd749b02f11543dbe32d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-29_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: c6dcd4dc8cfcfb244bd88b6e3fe76062
-    m_importFrom: Assets/Animations/3D/Player/Boxing (1).fbx
+  - m_assetDatabaseId: f97bf925afc6e5b468ceaa8f11190090
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-4_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 124c4ffc292799a4b862744c3b945df8
-    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Jumps/Jumping.fbx
+  - m_assetDatabaseId: 0d1f0035e87b63d4da6cb2ba5adfc9d9
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-16_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 10fd3a2d8f546df4f8af19c411a0f42e
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Prefabs/Grass.prefab
+  - m_assetDatabaseId: 6af31a353b1a5ef44bbee216b7f35a12
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-2_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9d793e7e856583b439e5f552547fd55a
-    m_importFrom: Assets/Prefabs/Characters/Aldeano 32.prefab
+  - m_assetDatabaseId: 1021bf656ca3085468760f34842f55e3
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-20_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9a1e11ce806ca254a9e34affe4e00355
-    m_importFrom: Assets/Animations/3D/Player/LocomotionPlayer/Locomotion/Crouched
-      Walking.fbx
+  - m_assetDatabaseId: 90064cb5388dae34aa1423084183398d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-37_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8655854fe0299a548b9c79b29ab40b8c
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/FBX/Toon Chicken@Run
-      In Place.FBX
+  - m_assetDatabaseId: 2218ffc5ebddfa343ad8384960147957
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-9_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 023bb6bfb37b5334f82b6b3ac607c538
-    m_importFrom: Assets/Meshtint Free Chicken Mega Toon Series/Animations/Toon Chicken
-      Demo.controller
+  - m_assetDatabaseId: 9545cff5737c6b74fa0a926fa62b6d0b
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-21_comp_light.exr
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: d13019ff35905ad42b8d7d64d577f2fb
-    m_importFrom: "Assets/Models 3D/Characters/NI\xD1A/ALDEANA 32 A\xD1OS FBX.fbx"
+  - m_assetDatabaseId: f56ce736bac345044bfcae39b1220206
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-15_comp_dir.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 390f5cfff2a9da24181b0178caac9eb5
-    m_importFrom: "Assets/IA Characters/Soldado/RecibirDa\xF1o/Standing React Small
-      From Front.fbx"
+  - m_assetDatabaseId: 99973c364c2f1804ab23d24cd667181d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-24_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1074ca66fd840e64b85d484374acfbb7
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-35_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e45c786c06cd5e479ffcfb45bd039e6
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-36_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5fe1a96a23c8cf46a39a72df49bf5b6
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-34_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06271b37289085e48b74692ebed84f56
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-25_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 873bed5756d05584db07bac87b5f66d5
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-32_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 696359675b68d0c479d3d124ce96beaa
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-31_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8eab4a774b3e7ab449da5c6bf9cf6bf2
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-38_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0232087dca63d84091397fe81c55d98
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-0_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9e139d70651c744794fcc15e9b8ac97
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-11_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d6df9e737f2b2949a5074e40ac08d5b
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-6_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 323a3218ca73b85489d256f7f4c6b6c6
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-23_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 259d2518ffe9b824c864861ed248c12d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-35_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 052d44387ab3fec4baabc13392ddd178
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-10_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea2bdfd8bebb9b84383e1633fc2d648d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-37_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eee6cb097020c6f43b4bc12e809476a6
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-33_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 514589195b52ec94388826198fa2b0bf
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-28_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 17df33d942feab04b8d7b815d126394f
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-3_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce1bc8e96d748a644956795873af90c7
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-25_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d8aaf7ad6d2a254cbf0673c2f49b200
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-12_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b33f6dea6a111bd41ad41b24730964e9
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-28_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 363f740b6a2445c4bb3e35dae3508487
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-27_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c3527b3bd5f36c642a39f0b41c4f8933
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-13_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d0d614b7b3f4fb459f3d5c622739dd2
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-23_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d173ff5b941fa3f4fa02ce69ae2cabdf
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-30_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 457daa7b98a8bd6478d595e378ba649f
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-11_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e01ef7b4e4a8d14b84b012a0730eb18
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-33_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0a14c9bebcf0144e8dd2514c9f84c2e
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-26_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62c40f9b760782943add1fb336b45368
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-19_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 74ee5a3c9d0c0c14cb937ab4edf886e0
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-17_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7fe7664c5d8d8af4c96e4dff167dda07
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-36_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 907abf4cf05d3ad4090506d1a2a4b4e5
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-8_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8428a18ce9a5e824c9510ff780048b87
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-7_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6a723acbe56e9046b414e23e2f7f871
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-8_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8bb31cc4ff087347bb4286f68edede3
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-27_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 08d033fc8fd70424090cd44f533ff6e5
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-13_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a2b9dfc0fb1bf548a46e270dd36c969
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-24_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0ebfffc34f24814cbaa11bcb457560f
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-9_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 637c746df62a70741a03d5d5613283c0
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-0_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 19e8cb7d345fad44daa1a9a6f860fe8f
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-18_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a2a3b9dd294b3f4a907562a6ef3d4d8
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-16_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10aa4ccdb59716c4f8e76680f3bc98a3
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-1_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df5329dd1ef845f4896656d3dafbb4c6
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-20_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac41c3fde02c23844b9ca74a1db9e1ae
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-15_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1af730e07f0bce48a5aac8300119a3a
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-5_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39a1ce0e78c9b4049bbd20c25d3edc96
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-10_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f443bb1ee3fe5ad41bcf64519e012930
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-31_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eadb875e3b5fa1c45aa3ba8c0d625b4c
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-3_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f174ca5e2d41a8c4b96975b8296e7536
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-2_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ac3759e1195ff04f9c0e5e240eb350d
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-22_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1bc0f2de12d7b7640bfe86cfa410c76c
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-14_comp_dir.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 910784de965ab0e4ba1b2145787b04f4
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-7_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e6fc4ee62e7cc54384e57fbebb48581
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-22_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bb0466fbe93732409d1ea2a57b1e720
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-17_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da15ebdf7542b7e42ad71d3736f354d4
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/Lightmap-29_comp_light.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 510b3bc8be9c6024ab36511b0a2e45ae
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/ReflectionProbe-0.exr
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfba7875ecb56584ea82bc1d8627a553
+    m_importFrom: Assets/Scenes/EscenarioHuertoTest/LightingData.asset
     m_exportTo: 
     m_variantName: 
   m_version: 2
